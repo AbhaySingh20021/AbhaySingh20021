@@ -13,7 +13,7 @@
 - 💻 Passionate about **Web Development**, **Cloud**, **Blockchain**, and **Android Development**.
 - 🛠️ Developed projects like **Cloud-Based Voting System**, **NFT Marketplace**, and a **Price Tracking Web App**.
 - 🚀 Currently looking for **Front-End Development** job opportunities in India.
-- 📝 Check out my portfolio: **[Abhay's Portfolio](https://your-portfolio-link.com)**
+- 📝 Check out my portfolio: **[Abhay's Portfolio](https://portfoliov2-nine-topaz.vercel.app/)**
 
 ---
 
@@ -48,13 +48,13 @@
 ### 🌍 Let's Connect:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/abhay-singh-123456/">
+  <a href="https://www.linkedin.com/in/abhay-singh-77688b1bb/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abhaysengar3250@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://your-github-link.github.io/">
+  <a href="#/">
     <img src="https://img.shields.io/badge/Portfolio-2C2E3B?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
 </p>
